@@ -30,8 +30,8 @@ The database class follows the Singleton pattern to ensure that only one instanc
 The MVC design pattern was followed in programming the application, and Command and Observer design patterns and multithreading were used to improve the user experience. The User, Product, Patient, Offer, OfferTblPreviewData, and MedicalExam classes represent the objects with which the application works, and the TableModels package contains classes for models for all tables used in the application. Finally, the DAO package contains classes for working with data from the database.
 <br>
 
-### <em><strong>IMPORTANT INFORMATION:</strong> If you wish to test LimeDent, please download the LimeDent Installer.exe from the link provided below. When logging in, please use the following credentials: username - <strong>test</strong>, password - <strong>test</strong>. 
-### Kindly note that this application is intended for testing purposes only.</em>
+#### <em><strong>IMPORTANT INFORMATION:</strong> If you wish to test LimeDent, please download the LimeDent Installer.exe from the link provided below. When logging in, please use the following credentials: username - <strong>test</strong>, password - <strong>test</strong>. 
+#### Kindly note that this application is intended for testing purposes only.</em>
 
 <br>
 
