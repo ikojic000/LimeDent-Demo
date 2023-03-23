@@ -20,7 +20,7 @@ public class Start {
 		Patient patient = new Patient( 1 , "Test Test" );
 		
 		ImageCompressionThread compressionThread = new ImageCompressionThread(
-				new File( "../../../Images/01 Login.png" ) , patient );
+				new File("../Images/test.jpg" ) , patient );
 		
 		compressionThread.start();
 		
