@@ -15,6 +15,7 @@ Overall, LimeDent is a versatile dental clinic management application that can h
 ## Technologies Used:
 * Java
 * MySQL Database
+### Design Patterns and Other
 * MVC Design Pattern
 * Observer Design Pattern
 * Command Design Pattern
