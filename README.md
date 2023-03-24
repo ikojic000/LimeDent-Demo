@@ -13,14 +13,17 @@ One of the most powerful features of LimeDent is the ability to create offers th
 Overall, LimeDent is a versatile dental clinic management application that can help dentists and their staff manage patient information, medical exams, products, and offers with ease. <br>
 
 ## Technologies Used:
-* Java
-* MySQL Database
+
+- Java
+- MySQL Database
+
 ### Design Patterns and Other
-* MVC Design Pattern
-* Observer Design Pattern
-* Command Design Pattern
-* Singleton Design Pattern
-* Multithreading
+
+- MVC Design Pattern
+- Observer Design Pattern
+- Command Design Pattern
+- Singleton Design Pattern
+- Multithreading
 
 The MySQL database is used as the data storage, while the custom Java Swing components make up the GUI interface.
 
@@ -31,13 +34,16 @@ The database class follows the Singleton pattern to ensure that only one instanc
 The MVC design pattern was followed in programming the application, and Command and Observer design patterns and multithreading were used to improve the user experience. The User, Product, Patient, Offer, OfferTblPreviewData, and MedicalExam classes represent the objects with which the application works, and the TableModels package contains classes for models for all tables used in the application. Finally, the DAO package contains classes for working with data from the database.
 <br>
 
-#### <em><strong>IMPORTANT INFORMATION:</strong> If you wish to test LimeDent, please download the LimeDent Installer.exe from the link provided below. When logging in, please use the following credentials: username - <strong>test</strong>, password - <strong>test</strong>. 
+#### <em><strong>IMPORTANT INFORMATION:</strong> If you wish to test LimeDent, please download the LimeDent Installer.exe from the link provided below. When logging in, please use the following credentials: username - <strong>test</strong>, password - <strong>test</strong>.
+
 #### Kindly note that this application is intended for testing purposes only.</em>
 
 <br>
 
-## <strong>LimeDent Installer -</strong> 
-### https://www.dropbox.com/s/pu1dvs8ehybnhvq/LimeDent%20Installer.exe?dl=0 
+## <strong>LimeDent Installer -</strong>
+
+### https://www.dropbox.com/s/pu1dvs8ehybnhvq/LimeDent%20Installer.exe?dl=0
+
 <br>
 
 <em> <strong>REMINDER: </strong> Please be advised that this app is currently a work in progress and as such, it is subject to change and improvement. There is still more work to be done to enhance its functionality and user experience. Thank you for your understanding and patience as we continue to develop and refine the app.</em>
