@@ -1,0 +1,12 @@
+app
+controller
+controller.command
+controller.observer
+dao
+model
+model.tableModels
+view
+view.panel.footerBar
+view.panel.menuBar
+view.panel.titleBar
+view.viewPanel

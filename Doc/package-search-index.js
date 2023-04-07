@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"app"},{"l":"controller"},{"l":"controller.command"},{"l":"controller.observer"},{"l":"dao"},{"l":"model"},{"l":"model.tableModels"},{"l":"view"},{"l":"view.panel.footerBar"},{"l":"view.panel.menuBar"},{"l":"view.panel.titleBar"},{"l":"view.viewPanel"}];updateSearchResults();
