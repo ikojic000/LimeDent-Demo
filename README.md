@@ -46,6 +46,12 @@ The MVC design pattern was followed in programming the application, and Command 
 
 <br>
 
+## <strong>LimeDent Codebase -</strong>
+
+### https://github.com/ikojic000/limeDent/
+
+<br>
+
 <em> <strong>REMINDER: </strong> Please be advised that this app is currently a work in progress and as such, it is subject to change and improvement. There is still more work to be done to enhance its functionality and user experience. Thank you for your understanding and patience as we continue to develop and refine the app.</em>
 
 <br>
